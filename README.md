@@ -92,7 +92,7 @@ This will:
 
 ## 🧠 Contributors
 
-- Prasanna Ravichandran (Lead Dev & Architect)
+- 
 
 ---
 
