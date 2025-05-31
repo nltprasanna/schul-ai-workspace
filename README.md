@@ -55,7 +55,7 @@ npm run start:all
 
 This will:
 - Serve Angular at `http://localhost:4200`
-- Serve NestJS at `http://localhost:3333/api`
+- Serve NestJS at `http://localhost:3000/api`
 - Serve AI API at `http://localhost:8000`
 
 ---
